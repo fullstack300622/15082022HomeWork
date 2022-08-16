@@ -1,0 +1,19 @@
+After you created all the relevant car classes (polymorphismHW2.png)
+
+1)
+In the main method create instances (objects) for all subclasses of "Car" 
+
+2)
+create an ArrayList of type Car
+
+3)
+Add all instances to the array list
+
+4)
+loop through Arraylist and call overrided methods of the instances inside the loop to see polymorphism in action!!
+
+**Bonus**
+Change Car class to be abstract class. 
+Change some of the methods to be abstract methods.
+
+Check that everything is still work as expected
