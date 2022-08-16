@@ -1,0 +1,3 @@
+א) לעבור על זה
+https://www.w3schools.com/java/java_polymorphism.asp
+
